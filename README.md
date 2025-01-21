@@ -1,5 +1,5 @@
 # push.js
-Make your HTML tidier.
+Make your HTML tidier.  
 Before use `push.js` :
 ```html
 <script src="core.js"></script>
