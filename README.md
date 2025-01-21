@@ -11,12 +11,16 @@ After:
 ```html
 <script src="../js/push.min.js"></script>
 <script>
-var scriptList=["core.js","widgets.js","extra.js"];
-for(i=0;i<scriptList.length;i++;)push(scriptList[i]);
+var scriptList=["core.js", "widgets.js", "extra.js"];
+push(scriptList);
 </script>
 ```
 
 # Usage
 ```javascript
-push("script.js");//Simple as this!
+push("script.js");
+/* or */
+push(["a.js", "b.js", "c.js", ...]);
+//Simple as these!
 ```
+> Now it can add an array of script files' urls directly
