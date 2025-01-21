@@ -1,1 +1,0 @@
-document.body.innerHTML="Congratulations! push.js loaded successfully."
