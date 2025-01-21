@@ -1,6 +1,7 @@
 # push.js
 Make your HTML tidier.  
-> This is an extremely lightweight JavaScript project, cause the compressed code is only `327` bytes!  
+> This is an extremely lightweight JavaScript project, cause the compressed code is only `327` bytes!
+
 Before use `push.js` :
 ```html
 <script src="core.js"></script>
